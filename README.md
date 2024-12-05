@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Elizabeth Gomes!
 
-<!--
-**ElizabethGomes-QAEngineer/ElizabethGomes-QAEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 **QA Engineer | Automação de Testes**  
+🎓 Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**  
+🌟 Especialista em **Cypress** ,**Automação Web**,**Teste de Software** , **Agile** , **Javascript**, **DOM**, **CSS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre Mim
+
+- 🌱 Estou aprendendo **API** , **Automação mobile** e **CI/CD**.
+- 💼 Atualmente buscando oportunidades como **QA Engineer Júnior**.
+  
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens**: JavaScript, HTML.
+- **Automação de Testes**: Cypress.
+- **Ferramentas**: Jira, GitHub.
+- **Metodologias**: Scrum.
+  
+
+## 📊 Estatísticas do GitHub
+
+
+![Elizabeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElizabethGomes-QAEngineer&show_icons=true&theme=radical)
+
+## ✨ Linguagem Utilizada
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethGomes-QAEngineer&layout=compact&theme=radical&cache_seconds=86400)
+
+
+## 🌐 Social
+
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/elizabeth-gomes-da-silva-51b9a447/)
+
+
+
