@@ -32,7 +32,7 @@
 
 #### Projeto 
 
-- jira, trello
+- Jira, Trello
 
 #### Linguagens
 
