@@ -5,34 +5,35 @@
 
 🎓 Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**.
 
-🌟 Especialista em **Cypress** ,**API**, **Automação Web**,**Teste de Software** ,**Intergração CI/CD**, **Familiaridade com a Metodologia Agile**,**Javascript**, **SQL**.
+🌟 Especialista em **Cypress** ,**API**, **Automação Web**,**Teste de Software** ,
+**Intergração CI/CD**, **Familiaridade com a Metodologia Agile**,**Javascript**, **SQL**.
 
 💼 Atualmente buscando oportunidades como **QA Engineer Júnior**.
 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-# Dominio sobre Ferramentas de Automação
+## Dominio sobre Ferramentas de Automação
 
 - Cypress, Playwright, Appium, K6 ( Teste de Performance ) 
 
-# Back-End Automação
+## Back-End Automação
 
 - API com postman 
 
-# Banco de Dados
+## Banco de Dados
 
 - Postgree SQL
 
-# Versionamento & CI/CD
+## Versionamento & CI/CD
   
 - gitHub, git Actions
 
-# Projeto 
+## Projeto 
 
 - jira, trello
 
-# Linguagens
+## Linguagens
 
 - JavaScript
 
