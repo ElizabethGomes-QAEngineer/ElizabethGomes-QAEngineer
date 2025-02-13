@@ -40,11 +40,6 @@
 
   
 
-## 📊 Estatísticas do GitHub
-
-
-![Elizabeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElizabethGomes-QAEngineer&show_icons=true&theme=radical)
-
 ## ✨ Linguagem Utilizada
 
 
