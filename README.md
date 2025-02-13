@@ -15,27 +15,21 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 #### Automação
-
 - Cypress, Playwright, Appium, K6 ( Teste de Performance ) 
 
 #### Back-End Automação
-
 - API com postman 
 
 #### Banco de Dados
-
 - Postgree SQL
 
-#### Versionamento & CI/CD
-  
+#### Versionamento & CI/CD 
 - gitHub, git Actions
 
 #### Projeto 
-
 - Jira, Trello
 
 #### Linguagens
-
 - JavaScript
 
   
