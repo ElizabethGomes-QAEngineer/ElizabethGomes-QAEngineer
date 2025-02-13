@@ -9,7 +9,7 @@
 
 **Intergração CI/CD**, **Familiaridade com a Metodologia Agile**, **Javascript**, **SQL**.
 
-💼 Atualmente buscando oportunidades como **QA Engineer Júnior**.
+💼 Atualmente buscando oportunidades como **QA Engineer**.
 
 
 ## 🛠️ Tecnologias & Ferramentas
