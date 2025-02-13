@@ -13,7 +13,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-## Dominio sobre Ferramentas de Automação
+#### Dominio sobre Ferramentas de Automação
 
 - Cypress, Playwright, Appium, K6 ( Teste de Performance ) 
 
