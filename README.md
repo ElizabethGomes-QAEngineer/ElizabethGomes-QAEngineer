@@ -14,7 +14,7 @@
 - 📈  **Back-End Automação:**  API com postman 
 - 🖥  **Banco de Dados:**  Postgree SQL
 - 🎯  **Versionamento & CI/CD:** gitHub, git Actions
-- ✍  **Projeto:** Jira, Trello
+- ✍  **Planejamento Cenários, Casos de Testes e Bug Reporte :** Jira, Trello , Google Sheet
 - 🚀  **Linguagens:**  JavaScript
 - 🧠  **Agile Metodologia:** Scrum
 
