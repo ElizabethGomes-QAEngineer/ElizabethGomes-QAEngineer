@@ -19,16 +19,15 @@
 - 🧠  **Agile Metodologia:** Scrum
 
   
-## ✨ Linguagens Utilizada
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethGomes-QAEngineer&layout=compact&theme=radical&cache_seconds=86400)
-
-
-## 🌐 Social
+### 🌐 Social
 
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/elizabeth-gomes-da-silva-51b9a447/)
 
 
 
+### ✨ Linguagens Utilizada
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethGomes-QAEngineer&layout=compact&theme=radical&cache_seconds=86400)
