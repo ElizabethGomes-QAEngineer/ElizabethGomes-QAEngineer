@@ -3,13 +3,13 @@
 
 - 💻 **QA Engineer | 5 meses Atuando com Automação de Testes em projetos Independentes**.  
 
-- 🎓 Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**.
+- 🎓   Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**.
 
-- 🌟 Especialista em **Cypress** ,**API**, **Automação Web**,**Teste de Software** ,
+- 🌟   Especialista em **Cypress** ,**API**, **Automação Web**,**Teste de Software** ,
 
--  **Intergração CI/CD**, **Familiaridade com a Metodologia Agile**, **Javascript**, **SQL**.
+- 📐 **Intergração CI/CD**, **Familiaridade com a Metodologia Agile**, **Javascript**, **SQL**.
 
-- 💼 Atualmente buscando oportunidades como **QA Engineer**.
+- 💼   Atualmente buscando oportunidades como **QA Engineer**.
 
 
 ## 🛠️ Tecnologias & Ferramentas
