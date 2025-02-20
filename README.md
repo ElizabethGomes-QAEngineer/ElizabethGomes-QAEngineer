@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Elizabeth Gomes!
 
 
-- 💻 **QA Engineer | 5 meses Atuando com Automação de Testes em projetos Independentes**.  
+- 💻 **QA Engineer | 5 meses Atuando com Automação de Testes em Projetos Independentes**.  
 
 - 🎓   Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**.
 
