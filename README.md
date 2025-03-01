@@ -5,7 +5,7 @@
 - 🎓   Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**.
 - 🌟   Especialista em **Cypress** ,**API**, **Automação Web**,**Teste de Software** ,
 - 📐 **Intergração CI/CD**, **Familiaridade com a Metodologia Agile**, **Javascript**, **SQL**.
-- 💼   Atualmente buscando oportunidades como **QA Engineer**.
+- 💼   Atualmente buscando oportunidades como **QA Engineer** e estudando para o **CTFL/ISTQB**.
 
 
 ## 🛠️ Tecnologias & Ferramentas
