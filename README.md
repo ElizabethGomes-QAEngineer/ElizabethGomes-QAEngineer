@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Elizabeth Gomes!
 
 
-- 💻 **QA Engineer | Nos últimos 7 meses Atuei com Automação de Testes em Projetos Independentes e para empresa @SomosDev Tecnologia**.  
+- 💻 **QA Engineer | Nos últimos 7 meses Atuei com Automação de Testes
+- 💻   em Projetos Independentes e para empresa @SomosDev Tecnologia**.  
 - 🎓   Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**.
 - 🌟   Especialista em **Cypress** ,**API**, **Automação Web**,**Teste de Software** ,
 - 📐 **Intergração CI/CD**, **Familiaridade com a Metodologia Agile**, **Javascript**, **SQL**.
