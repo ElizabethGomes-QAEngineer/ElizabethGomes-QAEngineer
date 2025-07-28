@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Elizabeth Gomes!
 
 
-- 💻 **QA Engineer Pleno na Blip | Nos últimos meses Atuei Implantação de processos de qualidade em times
-- 💻  **em Projetos Independentes e para empresa @SomosDev Tecnologia.**  
+- 💻 **QA Engineer Pleno na @Blip | Nos últimos meses Atuei com Implantação de processos de qualidade em times
+- 💻  **Gestão em Projetos Independentes e para empresa @SomosDev Tecnologia.**  
 - 🎓   Bacharel em Gestão Empresarial **IBAT College Dublin Irlanda**.
 - 🌟   Especialista em **Cypress** ,**API**, **Automação Web**,**Teste de Software** ,
 - 📐 **Intergração CI/CD**, **Familiaridade com a Metodologia Agile**, **Javascript**, **SQL**.
